@@ -6,6 +6,7 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ['Appfolio']
 
+  spec.homepage      = 'https://github.com/appfolio/ae_check_migrations_load_silently'
   spec.summary       = %q{Check migrations do not affect database on load}
   spec.description   = %q{Check migrations do not affect database on load}
 
