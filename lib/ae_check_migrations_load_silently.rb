@@ -17,8 +17,8 @@ module AeCheckMigrationsLoadSilently
     if tables_modified.present?
       error_message = <<~MSG
         The following tables were modified when the migration classes were
-        loaded. This is not compatable with our release process. This is likely
-        because the migration has database modifiying code on the
+        loaded. This is not compatible with our release process. This is likely
+        because the migration has database modifying code on the
         class rather than inside a method.
         #{tables_modified.sort.join("\n")}
       MSG
