@@ -3,7 +3,7 @@ require 'minitest'
 
 Gem::Specification.new do |spec|
   spec.name          = 'ae_check_migrations_load_silently'
-  spec.version       = "0.1.0"
+  spec.version       = "0.2.1"
   spec.authors       = ['Appfolio']
 
   spec.homepage      = 'https://github.com/appfolio/ae_check_migrations_load_silently'
