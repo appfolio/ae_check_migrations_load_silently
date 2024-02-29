@@ -2,11 +2,19 @@
 
 ## [Unreleased](https://github.com/appfolio/ae_check_migrations_load_silently/tree/HEAD)
 
-[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/d014f71c11d43388d1d032bc201072298483937b...HEAD)
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.2.0...HEAD)
 
 **Merged pull requests:**
 
+- Appraise Ruby `3.3.0` [\#5](https://github.com/appfolio/ae_check_migrations_load_silently/pull/5) ([Maimer](https://github.com/Maimer))
+- Appraise Rails 7.1 [\#4](https://github.com/appfolio/ae_check_migrations_load_silently/pull/4) ([Maimer](https://github.com/Maimer))
+- Fix minitest deprecation [\#3](https://github.com/appfolio/ae_check_migrations_load_silently/pull/3) ([Maimer](https://github.com/Maimer))
+- Updates for Ruby `2.7.7`, `3.1.3`, `3.2.1` [\#2](https://github.com/appfolio/ae_check_migrations_load_silently/pull/2) ([Maimer](https://github.com/Maimer))
 - Appraise rubies 2.6.9, 2.7.5, 3.1.0, and Rails 7 [\#1](https://github.com/appfolio/ae_check_migrations_load_silently/pull/1) ([Maimer](https://github.com/Maimer))
+
+## [v1.2.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.2.0) (2024-02-29)
+
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/d014f71c11d43388d1d032bc201072298483937b...v1.2.0)
 
 
 
