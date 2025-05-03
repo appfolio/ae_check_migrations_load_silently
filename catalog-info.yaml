@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  title: ae_check_migrations_load_silently
+  description: This gem loads migration files and compares the database before and after to ensure it remains unchanged.
+  tags: []
+  annotations:
+    appfolio.com/package-location: https://rubygems.org/gems/ae_check_migrations_load_silently
+    appfolio.com/package-type: gem
+    circleci.com/project-slug: github/appfolio/ae_check_migrations_load_silently
+  name: ae-check-migrations-load-silently
+spec:
+  type: library
+  lifecycle: maintenance
+  owner: engineering
