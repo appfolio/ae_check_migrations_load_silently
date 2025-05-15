@@ -18,6 +18,7 @@ if ENV['WITH_COVERAGE'] == 'true'
   end
 end
 
+require 'logger' # Due to issue with activesupport / concurrent-ruby
 require 'ae_check_migrations_load_silently'
 require 'debug'
 require 'minitest/autorun'
