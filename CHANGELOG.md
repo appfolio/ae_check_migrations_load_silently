@@ -2,11 +2,16 @@
 
 ## [Unreleased](https://github.com/appfolio/ae_check_migrations_load_silently/tree/HEAD)
 
-[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.2.0...HEAD)
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.4.0...HEAD)
 
 **Merged pull requests:**
 
+- \[BANK-1370\] Appraise Ruby 3.4 and ActiveRecord 8 [\#7](https://github.com/appfolio/ae_check_migrations_load_silently/pull/7) ([Maimer](https://github.com/Maimer))
 - Appraise Rails 7.2 [\#6](https://github.com/appfolio/ae_check_migrations_load_silently/pull/6) ([Maimer](https://github.com/Maimer))
+
+## [v1.4.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.4.0) (2025-05-15)
+
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.2.0...v1.4.0)
 
 ## [v1.2.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.2.0) (2024-02-29)
 
