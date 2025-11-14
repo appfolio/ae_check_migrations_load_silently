@@ -18,6 +18,6 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = Gem::Requirement.new('< 3.5')
   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
-  spec.add_dependency('activerecord', ['>= 7', '< 8.1'])
+  spec.add_dependency('activerecord', ['>= 7.2', '< 8.2'])
   spec.add_dependency('minitest', ['>= 5.8', '< 6'])
 end
