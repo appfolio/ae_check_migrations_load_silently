@@ -2,17 +2,25 @@
 
 ## [Unreleased](https://github.com/appfolio/ae_check_migrations_load_silently/tree/HEAD)
 
-[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.5.0...HEAD)
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.6.0...HEAD)
+
+**Merged pull requests:**
+
+- \[BANK-1738\] Update supported Ruby versions to 3.3.10, 3.4.8, 4.0.1 [\#11](https://github.com/appfolio/ae_check_migrations_load_silently/pull/11) ([Maimer](https://github.com/Maimer))
+
+## [v1.6.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.6.0) (2026-03-06)
+
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.5.0...v1.6.0)
+
+## [v1.5.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.5.0) (2025-11-14)
+
+[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.4.0...v1.5.0)
 
 **Merged pull requests:**
 
 - \[BANK-1584\] Appraise `rails` 8.1 [\#10](https://github.com/appfolio/ae_check_migrations_load_silently/pull/10) ([Maimer](https://github.com/Maimer))
 - Configure NPM and Yarn to use custom NPM package repository [\#9](https://github.com/appfolio/ae_check_migrations_load_silently/pull/9) ([appfolio-sourcegraph-batch-changes[bot]](https://github.com/apps/appfolio-sourcegraph-batch-changes))
 - \[KNOW-154\]: Use CODEOWNERS to determine Developer Portal catalog ownership [\#8](https://github.com/appfolio/ae_check_migrations_load_silently/pull/8) ([modethirteen](https://github.com/modethirteen))
-
-## [v1.5.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.5.0) (2025-11-14)
-
-[Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.4.0...v1.5.0)
 
 ## [v1.4.0](https://github.com/appfolio/ae_check_migrations_load_silently/tree/v1.4.0) (2025-05-15)
 
