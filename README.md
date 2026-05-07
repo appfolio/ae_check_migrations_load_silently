@@ -15,13 +15,12 @@ end
 
 And then execute:
 
-    $ bundle
+```bash
+bundle
+```
 
 Or install it yourself as:
 
-    $ gem install ae_check_migrations_load_silently
-
-## More Information
-
-To further understand the issues that can be caused by migrations with code that changes the database on load vs on up/down migration, read this TWL! 
-https://sites.google.com/a/appfolio.com/classic-eng/general-engineering-resources/today-we-learned/2020-05-20---migrations-must-not-affect-database-on-load
+```bash
+gem install ae_check_migrations_load_silently
+```
