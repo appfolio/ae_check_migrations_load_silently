@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.7.0](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.6.0...v1.7.0) (2026-05-07)
+
+
+### Features
+
+* support minitest 6 ([fc5a6d3](https://github.com/appfolio/ae_check_migrations_load_silently/commit/fc5a6d3bee9afb5501c9cd395e43e94e5995099a))
+
+
+### Documentation
+
+* update changelog ([0106a29](https://github.com/appfolio/ae_check_migrations_load_silently/commit/0106a290ba152f50374aeb39ab8322f410a9692c))
+
+
+### Miscellaneous Chores
+
+* migrate npm registry from CodeArtifact to JFrog ([30d3eae](https://github.com/appfolio/ae_check_migrations_load_silently/commit/30d3eaebb02c5572eae95637159e88ff0afe3f95))
+* migrate npm registry from CodeArtifact to JFrog ([971ef46](https://github.com/appfolio/ae_check_migrations_load_silently/commit/971ef4617fb723f1c2d5da273e6d4a820d127ac3))
+
+
+### Continuous Integration
+
+* add Release Please and gem-releaser workflows for automated releases ([2cdb3f1](https://github.com/appfolio/ae_check_migrations_load_silently/commit/2cdb3f11262529e44847a88a638b4e692c0b93d6))
+* add Release Please and gem-releaser workflows for automated releases ([77b9427](https://github.com/appfolio/ae_check_migrations_load_silently/commit/77b9427919d6eee98de6fd2c3f39656b2e0b03be))
+
 ## [Unreleased](https://github.com/appfolio/ae_check_migrations_load_silently/tree/HEAD)
 
 [Full Changelog](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.6.0...HEAD)
