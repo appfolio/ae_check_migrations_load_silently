@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.platform      = Gem::Platform::RUBY
   spec.author        = 'AppFolio'
   spec.email         = 'opensource@appfolio.com'
-  spec.description   = 'Check migrations do not affect database on load.'
-  spec.summary       = spec.description
+  spec.description   = 'Loads migration files and compares the database state before and after loading to ensure it remains unchanged. This helps catch migrations that unintentionally alter the database simply by being loaded.'
+  spec.summary       = 'Checks that migrations do not modify the database when loaded.'
   spec.homepage      = 'https://github.com/appfolio/ae_check_migrations_load_silently'
   spec.license       = 'MIT'
   spec.files         = Dir['**/*'].select { |f| f[%r{^(lib/|LICENSE.txt|ae_check_migrations_load_silently\.gemspec)}] }
