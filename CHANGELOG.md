@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.7.1](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.7.0...v1.7.1) (2026-07-20)
+
+
+### Miscellaneous Chores
+
+* migrate catalog-info.yaml metadata into gemspec for gemspec catalog ingestor ([fa2a168](https://github.com/appfolio/ae_check_migrations_load_silently/commit/fa2a1681d8b8dd352f5fa418a8b9d2c27d992e5d))
+* standardize CI and test configuration ([fb585ac](https://github.com/appfolio/ae_check_migrations_load_silently/commit/fb585acec54d2bb437551f7b503b936c0ba7701a))
+
+
+### Build System
+
+* migrate gem source from RubyGems to JFrog ([36b9b3e](https://github.com/appfolio/ae_check_migrations_load_silently/commit/36b9b3e01924618cac400bac7576e5b10eb8a843))
+
+
+### Continuous Integration
+
+* add id-token permission for OIDC trusted publishing ([3370596](https://github.com/appfolio/ae_check_migrations_load_silently/commit/3370596c94c339d428a681fb1572cf748e6ff1bc))
+* add id-token permission for OIDC trusted publishing ([146d681](https://github.com/appfolio/ae_check_migrations_load_silently/commit/146d6811e9c9f07b5f4075b8c09a342b22107e57))
+* scope release-please to gem-shipped files ([bf8a94f](https://github.com/appfolio/ae_check_migrations_load_silently/commit/bf8a94f98bd4bcb44ceba9bd89f14018fc0cdf76))
+
 ## [1.7.0](https://github.com/appfolio/ae_check_migrations_load_silently/compare/v1.6.0...v1.7.0) (2026-05-07)
 
 
